@@ -19,15 +19,15 @@ Nothing Cursor writes reaches your working tree until Claude runs `apply`.
 
 **Windows (PowerShell):**
 ```powershell
-git clone <this repo's URL> cursor-delegate-skill
-cd cursor-delegate-skill
+git clone https://github.com/trustdemons05/GWAK-CLAUDE.git
+cd GWAK-CLAUDE
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
 **macOS / Linux:**
 ```bash
-git clone <this repo's URL> cursor-delegate-skill
-cd cursor-delegate-skill
+git clone https://github.com/trustdemons05/GWAK-CLAUDE.git
+cd GWAK-CLAUDE
 ./install.sh
 ```
 
